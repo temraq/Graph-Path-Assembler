@@ -1,0 +1,25 @@
+﻿  GrafAsm.cpp
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(5,1): warning C4005: UNICODE: изменение макроопределения
+  C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(5,1):
+  "UNICODE" ранее объявлен в командной строке
+  
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(144,5): warning C4102: M_i: неиспользованная метка
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(519,82): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(519,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(520,80): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(520,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(540,84): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(540,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(541,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(541,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(549,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(549,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(550,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(550,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(551,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(551,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(552,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(552,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(560,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\GrafAsm\GrafAsm.cpp(560,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  GrafAsm.vcxproj -> C:\Users\user\Desktop\mpei\ос\лаба1\assembler\GrafAsm\Debug\GrafAsm.exe
